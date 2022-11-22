@@ -780,7 +780,7 @@ a {
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
 }
 
-/* Modal window */
+/* Modal form-wind */
 
 .backdrop {
   position: fixed;
@@ -891,7 +891,7 @@ a {
   flex-direction: column;
   margin-bottom: 10px;
 }
-.modal-label:nth-child(4) {
+.modal-label:nth-child(5) {
   margin-bottom: 0;
 }
 .label-title {
