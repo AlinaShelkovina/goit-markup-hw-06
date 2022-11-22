@@ -842,8 +842,8 @@ a {
   cursor: pointer;
 }
 
-.modal-group__close-btn:hover,
-.modal-group__close-btn:focus {
+.modal-group__close-icon:hover,
+.modal-group__close-icon:focus {
   fill: var(--main-blue);
 }
 
@@ -1057,8 +1057,4 @@ a {
 
   border-radius: 50%;
   cursor: pointer;
-}
-.modal-group__close-icon:hover,
-.modal-group__close-icon:focus {
-  fill: var(--main-blue);
 }
