@@ -892,9 +892,10 @@ a {
   margin-bottom: 10px;
 }
 
-.modal-label-comment{
+.modal-label-comment {
 margin-bottom: 20px;
 }
+
 .modal-label:nth-child(5) {
   margin-bottom: 0;
 }
