@@ -891,6 +891,10 @@ a {
   flex-direction: column;
   margin-bottom: 10px;
 }
+
+.modal-label-comment{
+margin-bottom: 20px;
+}
 .modal-label:nth-child(5) {
   margin-bottom: 0;
 }
